@@ -1,0 +1,37 @@
+div {
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-right: 450px;
+    padding: 10px;
+    background-color: blanchedalmond;
+    margin-left: 500px;
+}
+
+#i1 {
+    width: 100px;
+    margin-left: 18px;
+}
+
+#i2 {
+    width: 210px;
+}
+
+#i4 {
+    width: 210px;
+}
+
+#b1 {
+    width: 100px;
+    height: 35px;
+    margin-left: 48px;
+    color: rgb(188, 227, 192);
+    background-color: rgb(19, 135, 19);
+}
+
+#b2 {
+    width: 50px;
+    height: 35px;
+    margin-left: 5px;
+    color: rgb(251, 251, 251);
+    background-color: rgb(189, 139, 78);
+}
